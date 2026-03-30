@@ -37,15 +37,26 @@ namespace ANALISADOR
                 score = score - 100;
             }
 
+            if (conta.titular.estadoUF == "SP" || conta.titular.estadoUF == "RJ")
+            {
+                score = score + 40;
+            }
+
             if (conta.saldo > 100000)
             {
                 score = score + 300;
+            }
+
+            if (conta.titular.estadoUF == "SC")
+            {
+                score = score + 100;
             }
 
             if (conta.titular.estadoUF == "BA" || conta.titular.estadoUF == "PE" || conta.titular.estadoUF == "AL" || conta.titular.estadoUF == "SE" || conta.titular.estadoUF == "CE" || conta.titular.estadoUF == "PB" || conta.titular.estadoUF == "PI" || conta.titular.estadoUF == "RN" )
             {
                 score = score + 40;
             }
+
 
             if (conta.saldo >= 1 && conta.saldo <= 500)
             {
