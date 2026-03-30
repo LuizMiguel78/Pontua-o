@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\bin\Debug\net9.0\ANALISADOR.exe
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\bin\Debug\net9.0\ANALISADOR.deps.json
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\bin\Debug\net9.0\ANALISADOR.runtimeconfig.json
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\bin\Debug\net9.0\ANALISADOR.dll
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\bin\Debug\net9.0\ANALISADOR.pdb
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\obj\Debug\net9.0\ANALISADOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\obj\Debug\net9.0\ANALISADOR.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\obj\Debug\net9.0\ANALISADOR.AssemblyInfo.cs
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\obj\Debug\net9.0\ANALISADOR.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\obj\Debug\net9.0\ANALISADOR.dll
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\obj\Debug\net9.0\refint\ANALISADOR.dll
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\obj\Debug\net9.0\ANALISADOR.pdb
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\obj\Debug\net9.0\ANALISADOR.genruntimeconfig.cache
+C:\Users\tarde.cetafest\source\repos\ANALISADOR\ANALISADOR\obj\Debug\net9.0\ref\ANALISADOR.dll
